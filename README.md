@@ -6,6 +6,7 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Artemis-solomon&count_private=true&show_icons=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemis-solomon&layout=compact)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c25af822-cd1d-4e9f-918b-5ee878672330" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!---
 Artemis-solomon/Artemis-solomon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
